@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. Note: code is MIT; datasets/reports are CC BY-NC 4.0 (see LICENSE-DATA)."
+title: "TCC ICMC — Sentiment Analysis (B2W PT-BR)"
+authors:
+  - family-names: Penedo
+    given-names: Adriano
+version: "1.0.0"
+date-released: "2025-09-21"
+repository-code: "https://github.com/ampenedo/tcc_icmc_sentiment_analysis"
+license: "MIT"
+abstract: |
+  Código (scripts Python) sob MIT License (ver LICENSE-CODE).
+  Dados, relatórios e documentos sob CC BY-NC 4.0 (ver LICENSE-DATA).
+  Este repositório contém scripts de split, treinamento (métodos clássicos e BERTimbau) e predição/avaliação para análise de sentimentos em PT-BR.
+keywords:
+  - sentiment analysis
+  - portuguese
+  - BERTimbau
+  - scikit-learn
+  - MLOps
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Penedo
+      given-names: Adriano
+  title: "TCC ICMC — Sentiment Analysis (B2W PT-BR)"
+  year: 2025
+  url: "https://github.com/ampenedo/tcc_icmc_sentiment_analysis"

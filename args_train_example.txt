@@ -1,0 +1,9 @@
+# Exemplo de arquivo de argumentos para o treinador unificado
+--train_csv data/treino_stratify_80.csv
+--model_label logreg_tfidf_baseline
+--algo logreg
+--remove_stopwords 1
+--balance balanced
+--min_df 2
+--max_df 0.9
+--ngram_max 2
