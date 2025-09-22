@@ -4,7 +4,7 @@ Este documento resume objetivos, dados, modelos, métricas e considerações ét
 
 ## Objetivo
 
-Implementar e avaliar pipelines de **análise de sentimentos em português**, comparando algoritmos clássicos (Naive Bayes, Regressão Logística, SVM, Random Forest) e **BERTimbau**.  
+Implementar e avaliar pipelines de **análise de sentimentos em português**, comparando algoritmos clássicos (Naive Bayes, Regressão Logística, SVM) e **BERTimbau**.  
 Caráter **acadêmico e experimental**, parte de uma monografia de MBA.
 
 ## Dados
@@ -18,7 +18,7 @@ Caráter **acadêmico e experimental**, parte de uma monografia de MBA.
 
 ### Clássicos
 - Vetorização: **TF-IDF** ou **Word2Vec**
-- Classificadores: **MultinomialNB**, **ComplementNB**, **BernoulliNB**, **Logistic Regression**, **SVM**, **Random Forest**
+- Classificadores: **MultinomialNB**, **ComplementNB**, **BernoulliNB**, **Logistic Regression**, **SVM**
 
 ### Transformers
 - **BERTimbau (base)** com *fine-tuning* via HuggingFace.
