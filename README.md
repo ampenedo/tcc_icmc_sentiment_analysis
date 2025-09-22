@@ -7,7 +7,7 @@ Este repositório reúne os **scripts exatamente como usados** na monografia do 
 ## Dataset de referência (B2W Reviews)
 
 O trabalho original foi baseado no dataset público **B2W Reviews** (PT-BR).  
-Repositório oficial do dataset: **https://github.com/thiagorainmaker77/b2w-reviews01**
+Repositório oficial do dataset: **https://github.com/americanas-tech/b2w-reviews01**
 
 > Este repositório **não inclui** os arquivos do dataset. Se você quiser reproduzir os resultados, baixe o dataset no link acima e aponte os scripts para seus CSVs locais.
 
